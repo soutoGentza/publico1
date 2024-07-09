@@ -1,1 +1,3 @@
 Querido diario, hoy empecé curso de git
+
+He aprendido muchas cosas
