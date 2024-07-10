@@ -1,3 +1,5 @@
 Querido diario, hoy empecé curso de git
 
 He aprendido muchas cosas
+
+Este commit es para subir algo a remoto
