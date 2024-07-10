@@ -3,6 +3,8 @@
 using std;
 
 int suma(int a, int b);
+int division(int a, int b);
+
 
 
 int main(){
@@ -18,6 +20,14 @@ int suma(int a,int b){
 	int result;
 
 	result=a+b;
+
+	return result;
+}
+
+int division(int a, int b){
+	int result;
+
+	result=a/b;
 
 	return result;
 }
